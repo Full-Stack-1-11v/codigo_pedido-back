@@ -1,0 +1,14 @@
+com/perfulandia/pedidos/feign/UsuarioClient.class
+com/perfulandia/pedidos/model/RutaEntrega$RutaEntregaBuilder.class
+com/perfulandia/pedidos/repository/ProductoRepository.class
+com/perfulandia/pedidos/model/Producto.class
+com/perfulandia/pedidos/model/RutaEntrega.class
+com/perfulandia/pedidos/dto/ProductoDTO.class
+com/perfulandia/pedidos/model/Pedido.class
+com/perfulandia/pedidos/feign/ProductoClient.class
+com/perfulandia/pedidos/dto/PedidoDTO.class
+com/perfulandia/pedidos/dto/UsuarioDTO.class
+com/perfulandia/pedidos/service/PedidoService.class
+com/perfulandia/pedidos/repository/PedidoRepository.class
+com/perfulandia/pedidos/controller/PedidoController.class
+com/perfulandia/pedidos/PedidosApplication.class
