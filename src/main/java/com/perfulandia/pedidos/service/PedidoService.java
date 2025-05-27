@@ -1,5 +1,10 @@
 package com.perfulandia.pedidos.service;
 
+import java.util.List;
+import java.util.stream.Collectors;
+
+import org.springframework.stereotype.Service;
+
 import com.perfulandia.pedidos.dto.PedidoDTO;
 import com.perfulandia.pedidos.dto.ProductoDTO;
 import com.perfulandia.pedidos.dto.UsuarioDTO;
@@ -7,11 +12,8 @@ import com.perfulandia.pedidos.feign.ProductoClient;
 import com.perfulandia.pedidos.feign.UsuarioClient;
 import com.perfulandia.pedidos.model.Pedido;
 import com.perfulandia.pedidos.repository.PedidoRepository;
-import lombok.RequiredArgsConstructor;
-import org.springframework.stereotype.Service;
 
-import java.util.List;
-import java.util.stream.Collectors;
+import lombok.RequiredArgsConstructor;
 
 @Service
 @RequiredArgsConstructor
