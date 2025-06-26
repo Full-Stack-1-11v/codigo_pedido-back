@@ -1,0 +1,12 @@
+com/perfulandia/pedidos/controller/PedidoControllerTest.class
+com/perfulandia/pedidos/PedidosApplicationTests.class
+com/perfulandia/pedidos/dto/UsuarioDTOTest.class
+com/perfulandia/pedidos/model/PedidoTest.class
+com/perfulandia/pedidos/dto/SucursalDTOTest.class
+com/perfulandia/pedidos/dto/PedidoResponseTest.class
+com/perfulandia/pedidos/service/PedidoServiceTest.class
+com/perfulandia/pedidos/config/TestFeignConfig.class
+com/perfulandia/pedidos/DummyTest.class
+com/perfulandia/pedidos/dto/AlertaInventarioTest.class
+com/perfulandia/pedidos/dto/PedidoRequestTest.class
+com/perfulandia/pedidos/dto/ProductoDTOTest.class

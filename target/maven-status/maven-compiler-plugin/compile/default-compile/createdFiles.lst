@@ -1,0 +1,17 @@
+com/perfulandia/pedidos/feign/UsuarioClient.class
+com/perfulandia/pedidos/config/SecurityConfig.class
+com/perfulandia/pedidos/feign/SucursalClient.class
+com/perfulandia/pedidos/dto/ProductoDTO.class
+com/perfulandia/pedidos/dto/SucursalDTO.class
+com/perfulandia/pedidos/model/Pedido.class
+com/perfulandia/pedidos/config/SwaggerConfig.class
+com/perfulandia/pedidos/dto/PedidoResponse.class
+com/perfulandia/pedidos/feign/InventarioClient.class
+com/perfulandia/pedidos/dto/AlertaInventario.class
+com/perfulandia/pedidos/feign/ProductoClient.class
+com/perfulandia/pedidos/dto/UsuarioDTO.class
+com/perfulandia/pedidos/service/PedidoService.class
+com/perfulandia/pedidos/repository/PedidoRepository.class
+com/perfulandia/pedidos/controller/PedidoController.class
+com/perfulandia/pedidos/dto/PedidoRequest.class
+com/perfulandia/pedidos/PedidosApplication.class

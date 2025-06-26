@@ -1,0 +1,17 @@
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/config/SecurityConfig.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/feign/InventarioClient.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/dto/ProductoDTO.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/feign/SucursalClient.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/PedidosApplication.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/controller/PedidoController.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/model/Pedido.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/service/PedidoService.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/dto/PedidoRequest.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/dto/PedidoResponse.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/feign/UsuarioClient.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/config/SwaggerConfig.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/dto/UsuarioDTO.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/dto/AlertaInventario.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/feign/ProductoClient.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/repository/PedidoRepository.java
+/Users/gio-gio/Downloads/pedido-microservicio-corregido/src/main/java/com/perfulandia/pedidos/dto/SucursalDTO.java
